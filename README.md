@@ -20,7 +20,7 @@ wget https://mothur.s3.us-east-2.amazonaws.com/wiki/silva.seed_v138.tgz
 ```
 
 
-### 4. place your sff file and the SILVA files into the MOTHUR directory
+### 4. place your sff file and the SILVA files into the MOTHUR directory, then open the MOTHUR terminal
 
 
 ### 5. to create fasta and qual files:
