@@ -31,7 +31,7 @@ sffinfo(sff=file.sff)
 
 ### 6. align to SILVA database
 ```
-align.seqs(fasta=file.trim.fasta, reference=silva.nr_v138.align)
+align.seqs(fasta=file.fasta, reference=silva.nr_v138.align)
 ```
 
 ### 7. Gets a summary
